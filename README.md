@@ -3,6 +3,6 @@
 -   Replace the following strings:
     -   WP Vue Plugin
     -   WPVuePlugin
-    -   \_\_WPVUEPLUGIN
-    -   \_\_wpvueplugin
+    -   WPVUEPLUGIN
+    -   wpvueplugin
 -   Run `npm install` && `npm run dev`

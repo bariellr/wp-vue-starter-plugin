@@ -11,6 +11,7 @@ log.txt
 /dist
 /tmp
 /build
+/public
 
 # Dependencies #
 ###################

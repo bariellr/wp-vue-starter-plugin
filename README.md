@@ -6,3 +6,4 @@
     -   WPVUEPLUGIN
     -   wpvueplugin
 -   Run `npm install` && `npm run dev`
+-   Run `composer install`
